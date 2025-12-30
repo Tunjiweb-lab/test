@@ -1,0 +1,21 @@
+body{
+    
+}
+
+.main{
+    background-color: black;
+    color: aliceblue;
+}
+/* img */
+img{
+    width: 20%;
+}
+
+.main nav{
+    display: flex;
+}
+
+.list li {
+    display: flex;
+    /* display: inline-block; */
+}
